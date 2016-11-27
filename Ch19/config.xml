@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "piece"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>piece</name>
+
+    <description>
+        航海王尋寶之旅 
+    </description>
+
+    <author href="http://www.arts.idv.tw/~jean" email="jeanchen1022@hotmail.com">
+        Jean Chen
+    </author>
+	<!-- version of PhoneGap -->	
+    <preference name="phonegap-version" value="3.5.0" />
+
+  </widget>
